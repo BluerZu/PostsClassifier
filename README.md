@@ -11,8 +11,8 @@ Este proyecto permite clasificar según tags dinámicos una publicaciones median
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone https://github.com/BluerZu/PostsClassifier
+   cd Posts_Classifier
    ```
 
 2. Instala las dependencias:
