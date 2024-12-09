@@ -1,5 +1,5 @@
 
-# Proyecto de Clasificación de Sentimientos
+# Proyecto de Clasificación de Publicaciones
 
 Este proyecto permite clasificar según tags dinámicos una publicaciones mediante un modelo de IA utilizando Groq.
 
