@@ -1,7 +1,7 @@
 
 # Proyecto de Clasificación de Sentimientos
 
-Este proyecto permite clasificar el sentimiento de publicaciones mediante un modelo de IA utilizando Groq.
+Este proyecto permite clasificar según tags dinámicos una publicaciones mediante un modelo de IA utilizando Groq.
 
 ## Requisitos
 - Python 9.x o superior
